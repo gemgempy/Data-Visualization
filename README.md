@@ -1,1 +1,1 @@
-Proyek-proyek ini dibuat dan dapat digunakan menggunakan aplikasi Tableau Desktop
+Proyek-proyek ini dibuat dan dapat dibuka dan digunakan menggunakan aplikasi Tableau Desktop
